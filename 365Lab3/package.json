@@ -1,0 +1,13 @@
+{
+ "name": "2021-lab3",
+ "description": "A simple API.",
+ "homepage": "http://my.project.website",
+ "author": "My name <me@myemail.org>",
+ "main": "app.js",
+ "version": "0.0.1",
+ "dependencies": {
+  "express": "^4.17.1",
+  "mongoose": "^5.11.15",
+  "body-parser": "^1.19.0"
+ }
+}
